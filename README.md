@@ -25,13 +25,6 @@ AgroSmart is a machine learning-based agricultural application that helps farmer
 4. Weather information is retrieved through the weather API.
 5. Visual charts present useful agricultural insights to help users make informed decisions.
 
-## 👥 Contributors
-Thanks to our contributors for their valuable efforts:
-
-- [Diya Thakkar](https://github.com/DiyaT8)
-- [Rahul Zore](https://github.com/Rahul-Zore2005)
-- [Soham Shigvan](https://github.com/Soham-Edith)
-
 ## 🌾 Conclusion
 AgroSmart combines machine learning and agricultural data to support crop selection, yield prediction, and fertilizer recommendations. The project aims to improve farming decisions, resource utilization, and sustainable agricultural practices.
 
